@@ -58,6 +58,9 @@ end
 * what is difference between has_and_belongs_to_many and has_many through? Both contains joint table, but in has many througn role of joint table plays real entity table
 * polymorphic association. could you describe what is it. and when to use.
 * refactor this examples
+<br>
 https://github.com/ar-shestopal/tets_assignment/blob/master/app/models/user.rb
+<br>
 http://dmcca.be/2014/02/02/the-value-of-rails-worst-practices.html
+<br>
 https://bitbucket.org/spicyoranges/instaprinter
